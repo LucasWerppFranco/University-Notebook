@@ -35,5 +35,5 @@
 - ├──[Prompt and Artificial Intelligence](1st-Semester/├──Prompt_and_Artificial_Intelligence)
 - ├──[Renewable and Sustainable Energy Solutions](1st-Semester/├──Renewable_and_Sustainable_Energy_Solutions)
 
-Each discipline contains relevant materials and resources. Click on the links to explore more details.
+The subjects will be updated as the course progresses. For now, this repository is incomplete.
 
