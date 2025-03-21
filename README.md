@@ -37,3 +37,4 @@
 
 The subjects will be updated as the course progresses. For now, this repository is incomplete.
 
+Thank you for following my studies!!!
