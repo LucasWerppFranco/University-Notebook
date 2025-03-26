@@ -36,6 +36,9 @@
 - ├──[Renewable and Sustainable Energy Solutions](1st-Semester/├──Renewable_and_Sustainable_Energy_Solutions)
 - ├──[NNO Courses](1st-Semester/├──NNO_Courses)
 
+├──Self-Employed Studies
+- ├──[Blockchain](Self-Employed_Studies/├──Blockchain)
+
 The subjects will be updated as the course progresses. For now, this repository is incomplete.
 
 Thank you for following my studies!!!
