@@ -25,6 +25,9 @@
 
 ## 1st-Year
 
+├──Self-Employed Studies
+- ├──[Blockchain](Self-Employed_Studies/├──Blockchain)
+
 ├──1st-Semester
 - ├──[Computational Thinking and Automation with Python](1st-Semester/├──Computational_Thinking_and_Automation_with_Python)
 - ├──[Linear Modeling for Machine Learning](1st-Semester/├──Linear_Modeling_for_Machine_Learning)
@@ -35,9 +38,6 @@
 - ├──[Prompt and Artificial Intelligence](1st-Semester/├──Prompt_and_Artificial_Intelligence)
 - ├──[Renewable and Sustainable Energy Solutions](1st-Semester/├──Renewable_and_Sustainable_Energy_Solutions)
 - ├──[NNO Courses](1st-Semester/├──NNO_Courses)
-
-├──Self-Employed Studies
-- ├──[Blockchain](Self-Employed_Studies/├──Blockchain)
 
 The subjects will be updated as the course progresses. For now, this repository is incomplete.
 
